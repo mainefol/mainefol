@@ -28,7 +28,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;
@@ -46,6 +46,7 @@
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mainefol&theme=dark&hide_border=true&fire=4AE4EB)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mainefol&theme=dark&hide_border=true&fire=4AE4EB" alt="GitHub Streak" /></a>
+</div>
 
